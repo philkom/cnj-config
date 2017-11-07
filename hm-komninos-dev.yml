@@ -1,0 +1,5 @@
+server:
+  port: 8000
+cnj:
+  info:
+    message: Server verwendet Dev-Konfiguration aus Config-Server!
